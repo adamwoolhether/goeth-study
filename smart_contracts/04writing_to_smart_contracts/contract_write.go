@@ -8,7 +8,7 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/ethclient"
-	store "goeth/smart_contracts/02deploying_a_smart_contract/contracts"
+	store "goeth/smart_contracts/02deploying_a_smart_contract/contract"
 	"log"
 	"math/big"
 )
